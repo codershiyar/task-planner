@@ -14,9 +14,9 @@ Task Planner is a simple and user-friendly web application that allows users to 
 
 ## Live Demo - العرض التجريبي المباشر
 
-![Demo on Android Smartphone](demo-on-android-smartphone.PNG)
-![Demo on Iphone smartphone](demo-on-iphone-smartphone.PNG)
-![Demo on Laptop & Desktop](demo-on-laptop.png)
+![Demo on Android Smartphone](./demo-images/demo-on-android-smartphone.PNG)
+![Demo on Iphone smartphone](./demo-images/demo-on-iphone-smartphone.PNG)
+![Demo on Laptop & Desktop](./demo-images/demo-on-laptop.png)
 
 Check out the live demo of Task Planner [https://codershiyar.github.io/task-planner/](https://codershiyar.github.io/task-planner/).
 

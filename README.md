@@ -17,11 +17,11 @@ Task Planner is a simple and user-friendly web application that allows users to 
 <table>
   <tr>
     <td style="text-align:center">
-      <img src="./demo-images/demo-on-android-smartphone.PNG" alt="Demo on Android Smartphone" width="300">
+      <img src="./demo-images/demo-on-android-smartphone.PNG" alt="Demo on Android Smartphone" height="500">
       <p><em>عرض التجريبي على هاتف Android</em></p>
     </td>
     <td style="text-align:center">
-      <img src="./demo-images/demo-on-iphone-smartphone.PNG" alt="Demo on iPhone Smartphone" width="300">
+      <img src="./demo-images/demo-on-iphone-smartphone.PNG" alt="Demo on iPhone Smartphone" height="500">
       <p><em>عرض التجريبي على هاتف iPhone</em></p>
     </td>
   </tr>

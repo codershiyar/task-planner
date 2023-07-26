@@ -26,6 +26,7 @@ Task Planner is a simple and user-friendly web application that allows users to 
     </td>
   </tr>
 </table>
+
 ![Demo on Laptop & Desktop](./demo-images/demo-on-laptop.png)
 
 Check out the live demo of Task Planner [https://codershiyar.github.io/task-planner/](https://codershiyar.github.io/task-planner/).
